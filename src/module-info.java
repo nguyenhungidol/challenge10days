@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Challenge10days {
-}
